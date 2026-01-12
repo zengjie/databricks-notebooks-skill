@@ -16,7 +16,14 @@
       "Bash(chmod:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: Databricks Notebooks Skill for Claude Code\n\n- Add databricks_client.py for notebook operations \\(list, export, import, delete\\)\n- Add catalog_client.py for Unity Catalog schema browsing\n- Add notebook_parser.py for cell-level editing\n- Add config_helper.py for Databricks configuration management\n- Add setup.sh for one-click installation\n- Add import verification to detect failed saves\n- Add comprehensive documentation in SKILL.md\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: Databricks Notebooks Skill for Claude Code\n\n- Add databricks_client.py for notebook operations \\(list, export, import, delete\\)\n- Add catalog_client.py for Unity Catalog schema browsing\n- Add notebook_parser.py for cell-level editing\n- Add config_helper.py for Databricks configuration management\n- Add setup.sh for one-click installation\n- Add import verification to detect failed saves\n- Add comprehensive documentation in SKILL.md\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(gh auth:*)",
+      "Bash(gh repo create:*)",
+      "Bash(sqlite3:*)",
+      "Bash(find:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(ls:*)"
     ]
   }
 }

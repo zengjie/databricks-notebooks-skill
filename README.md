@@ -1,5 +1,7 @@
 # Databricks Notebooks Skill for Claude Code
 
+English | [中文](README_zh.md)
+
 A [Claude Code](https://claude.ai/claude-code) skill that enables reading and editing Databricks notebooks directly from the CLI, with access to Unity Catalog schemas for intelligent code generation.
 
 ## Features
